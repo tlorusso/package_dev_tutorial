@@ -15,7 +15,7 @@ https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf
 
 ## 2. Wir entwickeln gemeinsam ein Package 
 
-Wir wollen gemeinsam ein Package entwickeln, welches es ermöglicht, Datensätze in Excel-Dateien mit minimaler Formattierung abzuspeichern.
+Wir wollen gemeinsam ein Package entwickeln, welches es ermöglicht, Datensätze in Excel-Dateien mit minimaler Formattierung abzuspeichern. Im Repository liegt ein R-Skript (fancy_excel.R) bereit, welches eine erste Funktion enthält, die Teil des Packages sein soll.
 
 Klont dieses Repository und legt selber ein Package an, damit wir den Prozess gemeinsam durchgehen können. Wir schauen uns die Stuktur des packages an und generieren die Dokumentation dazu.
 

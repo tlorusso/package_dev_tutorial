@@ -22,10 +22,11 @@ Klont dieses Repository und legt selber ein Package an, damit wir den Prozess ge
 Folgende packages benötigen wir für  die Erstellung unseres Beispiel-Packages. Das `usethis`-Package erleichtert den Entwicklungsprozess massgeblich. Das `openxlsx`-package benötigen wir für die Beispiel-Funktion, die wir in unserem Package anbieten wollen. 
 
 ```
-install.packages("openxslx")
+install.packages(c(
+"devtools", "roxygen2", "knitr","openxslx"
+))
 
 library("devtools")
-
 library("openxlsx")
 ```
 

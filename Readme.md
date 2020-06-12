@@ -46,6 +46,6 @@ __Aufgaben__
 
 __Extras__
 
-3. Erweitert die `fancy_excel` Funktion damit auch eine Quelle angegeben werden kann. Dafür könnt ihr einen neuen source - parameter einführen, der analog zum Titel übergeben werden kann. Führt das Argument als neuen @param in der Dokumentation ein.
+4. Erweitert die `fancy_excel` Funktion damit auch eine Quelle angegeben werden kann. Dafür könnt ihr einen neuen source - parameter einführen, der analog zum Titel übergeben werden kann. Führt das Argument als neuen @param in der Dokumentation ein.
 
-4. Erzeugt eine pkgdown-Seite [siehe document & share Präsentation, Folie 28](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)
+5. Erzeugt eine pkgdown-Seite [siehe document & share Präsentation, Folie 28](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)

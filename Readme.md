@@ -33,7 +33,7 @@ library("openxlsx")
 Das `usethis`-Package erleichtert den Entwicklungsprozess massgeblich (wird beim laden von devtools mitgeladen).
 
 ```
-usethis::create_package("fancy_excel")
+usethis::create_package("fancyexcel")
 ```
 
 

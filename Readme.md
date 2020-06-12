@@ -39,14 +39,16 @@ usethis::create_package("fancy_excel")
 
 __Aufgaben__
 
-1. Überlegt euch ein kurzes Beispiel für die Verwendung unserer 'fancy_excel' Funktion mit einem Testdatensatz und fügt es unter @examples hinzu  [document & share Präsentation, Folie 5](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)
+1. Legt unsere `fancy_excel`- Funktion in den für sie vorgesehenen Ordner. Ladet im Anschluss das Package um die Funktion ausführen zu können (`devtools::load_all()`).
 
-2. Tragt euch als Maintainer im Description-File ein.
+2. Überlegt euch ein kurzes Beispiel für die Verwendung unserer 'fancy_excel' Funktion mit einem Testdatensatz und fügt es unter @examples hinzu  [document & share Präsentation, Folie 5](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)
 
-3. Erzeugt die Dokumentation neu via `devtools::document()`
+3. Tragt euch als Maintainer im Description-File ein.
+
+4. Erzeugt die Dokumentation neu via `devtools::document()`
 
 __Extras__
 
-4. Erweitert die `fancy_excel` Funktion damit auch eine Quelle angegeben werden kann. Dafür könnt ihr einen neuen source - parameter einführen, der analog zum Titel übergeben werden kann. Führt das Argument als neuen @param in der Dokumentation ein.
+5. Erweitert die `fancy_excel` Funktion damit auch eine Quelle angegeben werden kann. Dafür könnt ihr einen neuen source - parameter einführen, der analog zum Titel übergeben werden kann. Führt das Argument als neuen @param in der Dokumentation ein.
 
-5. Erzeugt eine pkgdown-Seite [siehe document & share Präsentation, Folie 28](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)
+6. Erzeugt eine pkgdown-Seite [siehe document & share Präsentation, Folie 28](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)
